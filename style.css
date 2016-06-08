@@ -1,0 +1,56 @@
+body{
+	background: url("https://static.pexels.com/photos/479/landscape-nature-sunset-trees.jpg");
+	
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+h1{
+	text-align: center;
+	margin: auto;
+	font-family: 'Lobster', cursive;
+	font-size: 52px;
+}
+img#link{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100px;
+	height:100px;
+}
+input{
+	width: 500px;
+	border-radius: 10px;
+	margin-left: 28%;
+	margin-right: auto;
+}
+button#search{
+	border-radius: 10px;
+}
+li{
+	
+background: #f7ff00; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #f7ff00 , #db36a4); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #f7ff00 , #db36a4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  margin: 30px;   
+  margin-right: 60px; 
+  border-radius:10px;  
+  padding: 8px;
+  font-size: 23px; 
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+
+ }
+header{
+	text-align: center;
+	font-size: 18px;
+	font-family: 'Indie Flower', cursive;
+	font-weight: bold;
+}
+button#random{
+	border-radius:10px;
+	background-color: red;
+}
+a{
+	color:green;
+}
